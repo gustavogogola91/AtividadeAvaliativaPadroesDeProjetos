@@ -6,7 +6,7 @@ import java.util.List;
 // Objeto observado
 public class Topico {
     public String Nome;
-    public List<AbsObserver> Observers = new ArrayList<AbsObserver>();
+    private List<AbsObserver> Observers = new ArrayList<AbsObserver>();
 
     public Topico(String nome) {
         Nome = nome;

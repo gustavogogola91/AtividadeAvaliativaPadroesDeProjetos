@@ -38,3 +38,11 @@ O unico padrão de projeto que se encaixa neste problema é o observer, que perm
 O Objeto tópico é o observado e o Usuario é o Observador
 
 Link para a pasta: [Clique aqui](https://github.com/gustavogogola91/AtividadeAvaliativaPadroesDeProjetos/tree/master/Questao3)
+
+### Diagrama
+
+![Diagrama](./Diagramas/Questao3.png)
+
+## Questão 4
+
+## Padrão utilizado: Decorator
