@@ -20,10 +20,21 @@ Link para a pasta: [Clique aqui](https://github.com/gustavogogola91/AtividadeAva
 
 ### Justificativa
 
-Decidi utilizar o factory nesta questão também pelo mesmo motivo, permite a criação dos objetos sem se preocupar com sua configuração, apenas solicita e recebe o objeto pronto para uso
+Decidi utilizar o factory nesta questão também pelo mesmo motivo, permite a criação dos objetos sem se preocupar com sua configuração, apenas solicita e recebe o objeto pronto para uso.
 
 Link para a pasta: [Clique aqui](https://github.com/gustavogogola91/AtividadeAvaliativaPadroesDeProjetos/tree/master/Questao2)
 
 ### Diagrama
 
 ![Diagrama](./Diagramas/Questao2.png)
+
+## Questão 3
+
+## Padrão utilizado: Observer
+
+### Justificativa
+
+O unico padrão de projeto que se encaixa neste problema é o observer, que permite notificar todos os objetos que se "inscreverem" para receber notificões de alterações em um objeto "observado".
+O Objeto tópico é o observado e o Usuario é o Observador
+
+Link para a pasta: [Clique aqui](https://github.com/gustavogogola91/AtividadeAvaliativaPadroesDeProjetos/tree/master/Questao3)
