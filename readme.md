@@ -46,3 +46,13 @@ Link para a pasta: [Clique aqui](https://github.com/gustavogogola91/AtividadeAva
 ## Questão 4
 
 ## Padrão utilizado: Decorator
+
+### Justificativa
+
+O unico padrão de projeto que se encaixa neste problema é o observer, prmitindo realizar a adição de funcionalidades sem alterar o objeto base. Utilizei a interface IRelatorio para servir de assinatura entre todos os objetos relatorio e permitir a alteração por meio do decorator. Utilizei a classe abstrata RelatorioDecorator para padronizar as classes de decorator.
+
+Link para a pasta: [Clique aqui](https://github.com/gustavogogola91/AtividadeAvaliativaPadroesDeProjetos/tree/master/Questao4)
+
+### Diagrama
+
+![Diagrama](./Diagramas/Questao4.png)
